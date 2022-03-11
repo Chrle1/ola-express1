@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/newmanix/ola-express-wn22-8/issues"
+    "url": "https://github.com/Chrle1/ola-express1/issues"
   },
-  "homepage": "https://github.com/newmanix/ola-express-wn22-8#readme",
+  "homepage": "https://github.com/Chrle1/ola-express1-8#readme",
   "dependencies": {
     "express": "^4.17.3"
   }
